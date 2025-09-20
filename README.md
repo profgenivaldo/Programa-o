@@ -1,2 +1,2 @@
-# Programa-o
+# Programação
 Linguagens de Programação
